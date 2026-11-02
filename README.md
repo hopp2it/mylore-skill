@@ -12,6 +12,13 @@ With the [skills CLI](https://skills.sh):
 npx skills add https://github.com/hopp2it/mylore-skill
 ```
 
+As a Claude Code plugin:
+
+```
+/plugin marketplace add hopp2it/mylore-skill
+/plugin install mylore@mylore-skill
+```
+
 By hand: copy `SKILL.md` into your agent's skills folder, for example `~/.claude/skills/mylore/SKILL.md` for Claude Code.
 
 ## What the agent does
