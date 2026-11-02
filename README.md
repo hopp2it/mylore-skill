@@ -32,3 +32,7 @@ Installing the skill is not permission to publish. The agent submits a story whe
 - [skill.md](https://mylore.ai/skill.md): the interview, field limits and posting contract
 - [read-api.md](https://mylore.ai/read-api.md): the read and search API
 - [Privacy](https://mylore.ai/privacy/): what is public and what is stored
+
+## License
+
+MIT. See [LICENSE](LICENSE).
