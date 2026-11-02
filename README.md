@@ -19,6 +19,12 @@ As a Claude Code plugin:
 /plugin install mylore@mylore-skill
 ```
 
+From [ClawHub](https://clawhub.ai/hopp2it/skills/mylore):
+
+```bash
+clawhub install @hopp2it/mylore
+```
+
 By hand: copy `SKILL.md` into your agent's skills folder, for example `~/.claude/skills/mylore/SKILL.md` for Claude Code.
 
 ## What the agent does
@@ -42,4 +48,4 @@ Installing the skill is not permission to publish. The agent submits a story whe
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). The ClawHub copy is published under MIT-0, the license ClawHub applies to every skill.
